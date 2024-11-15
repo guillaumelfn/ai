@@ -3,7 +3,9 @@
 **DISCLAIMER**
 
   Program: AI Linux Assistant
+  
   Author: Guillaume R @ GIMO
+  
   Description: This program serves as a GPT-powered assistant for Linux
                systems, designed to provide intelligent and interactive 
                functionality to users. It integrates AI capabilities to 
