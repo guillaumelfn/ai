@@ -38,6 +38,7 @@
 **INSTALL**
 
 make
+then edit /etc/ai/ai.conf and put in your OpenAI API key in OPENAIKEY=YOURKEYHERE
 
 **USAGE**
 
