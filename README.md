@@ -1,35 +1,37 @@
 # ai
 
- * Program: AI Linux Assistant
- * Author: Guillaume R @ GIMO
- * Description: This program serves as a GPT-powered assistant for Linux
- *              systems, designed to provide intelligent and interactive 
- *              functionality to users. It integrates AI capabilities to 
- *              enhance productivity and automate tasks within a Linux 
- *              environment.
- * 
- * License: This software is licensed for non-commercial use only. 
- *          Redistribution, modification, and use in any form for commercial 
- *          purposes are strictly prohibited.
- * 
- * Disclaimer: This program is provided "as is" without any warranty of any kind,
- *             either express or implied, including but not limited to the 
- *             implied warranties of merchantability and fitness for a 
- *             particular purpose.
- * 
- * Requirements: 
- *  - GCC Compiler
- *  - json-c, libcurl 
- *  - Linux Operating System
- *  - outgoing firewall access to OpenAI API servers
- * 
- * Usage:
- *  1. Compile and install : make
- *  2. Edit /etc/ai/ai.conf and install your OpenAI key 
- *  3. Run the executable: ai please echo Hello world ! 
- * 
+**DISCLAIMER**
 
-AI Linux assistant for your shell needs (For sysadmins really)
+  Program: AI Linux Assistant
+  Author: Guillaume R @ GIMO
+  Description: This program serves as a GPT-powered assistant for Linux
+               systems, designed to provide intelligent and interactive 
+               functionality to users. It integrates AI capabilities to 
+               enhance productivity and automate tasks within a Linux 
+               environment.
+  
+  License: This software is licensed for non-commercial use only. 
+           Redistribution, modification, and use in any form for commercial 
+           purposes are strictly prohibited.
+  
+  Disclaimer: This program is provided "as is" without any warranty of any kind,
+              either express or implied, including but not limited to the 
+              implied warranties of merchantability and fitness for a 
+              particular purpose.
+  
+  Requirements: 
+   - GCC Compiler
+   - json-c, libcurl 
+   - Linux Operating System
+   - outgoing firewall access to OpenAI API servers
+  
+  Usage:
+   1. Compile and install : make
+   2. Edit /etc/ai/ai.conf and install your OpenAI key 
+   3. Run the executable: ai please echo Hello world ! 
+  
+
+**AI Linux assistant for your shell needs (For sysadmins really)**
 
 **INSTALL**
 
